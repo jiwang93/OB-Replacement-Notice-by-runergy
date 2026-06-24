@@ -1,0 +1,6 @@
+{
+  "name": "Pallet Replacement Notice Printer",
+  "description": "Warehouse and factory floor pallet replacement letter tag generator and printer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
